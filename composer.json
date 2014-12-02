@@ -1,0 +1,22 @@
+{
+    "name": "puli/puli",
+    "description": "Puli manages files, directories and other resources in a filesystem-like repository.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernhard Schussek",
+            "email": "bschussek@gmail.com"
+        }
+    ],
+    "require": {
+        "puli/repository": "~1.0",
+        "puli/puli-repository-manager": "~1.0",
+        "puli/puli-cli": "~1.0",
+        "puli/puli-composer-plugin": "~1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
