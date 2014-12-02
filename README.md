@@ -28,6 +28,16 @@ import: /config/routing.yml
 
 Read [Puli at a Glance] if you want to learn more about Puli.
 
+Core Components
+---------------
+
+This package is a meta-package for Puli's core components:
+
+* [Puli Repository]
+* [Puli Repository Manager]
+* [Puli CLI]
+* [Puli Composer Plugin]
+
 Authors
 -------
 
@@ -66,6 +76,10 @@ All contents of this package are licensed under the [MIT license].
 [Getting Started]: http://puli.readthedocs.org/en/latest/getting-started.html
 [Puli Documentation]: http://puli.readthedocs.org/en/latest/index.html
 [Puli at a Glance]: http://puli.readthedocs.org/en/latest/at-a-glance.html
+[Puli Repository]: https://github.com/puli/repository
+[Puli Repository Manager]: https://github.com/puli/repository-manager
+[Puli CLI]: https://github.com/puli/cli
+[Puli Composer Plugin]: https://github.com/puli/composer-plugin
 [issue tracker]: https://github.com/puli/puli/issues
 [GitHub organization]: https://github.com/puli
 [@webmozart]: https://twitter.com/webmozart
