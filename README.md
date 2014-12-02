@@ -1,7 +1,7 @@
 Locating Files with Puli
 ========================
 
-Latest release: [1.0.0-alpha3](https://packagist.org/packages/puli/puli#1.0.0-alpha3)
+Latest release: none
 
 PHP >= 5.3.9
 
