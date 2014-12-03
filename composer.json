@@ -9,10 +9,10 @@
         }
     ],
     "require": {
-        "puli/repository": "~1.0@dev",
-        "puli/puli-repository-manager": "~1.0@dev",
-        "puli/puli-cli": "~1.0@dev",
-        "puli/puli-composer-plugin": "~1.0@dev"
+        "puli/repository": "~1.0",
+        "puli/puli-repository-manager": "~1.0",
+        "puli/puli-cli": "~1.0",
+        "puli/puli-composer-plugin": "~1.0"
     },
     "minimum-stability": "dev",
     "extra": {
