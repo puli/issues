@@ -12,6 +12,7 @@
     ],
     "require": {
         "puli/repository": "~1.0",
+        "puli/discovery": "~1.0",
         "puli/repository-manager": "~1.0",
         "puli/cli": "~1.0",
         "puli/composer-plugin": "~1.0"
