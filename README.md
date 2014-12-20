@@ -73,9 +73,9 @@ License
 All contents of this package are licensed under the [MIT license].
 
 [Bernhard Schussek]: http://webmozarts.com
-[Getting Started]: http://puli.readthedocs.org/en/latest/getting-started.html
-[Puli Documentation]: http://puli.readthedocs.org/en/latest/index.html
-[Puli at a Glance]: http://puli.readthedocs.org/en/latest/at-a-glance.html
+[Getting Started]: http://docs.puli.io/en/latest/getting-started.html
+[Puli Documentation]: http://docs.puli.io/en/latest/index.html
+[Puli at a Glance]: http://docs.puli.io/en/latest/at-a-glance.html
 [Puli Repository]: https://github.com/puli/repository
 [Puli Repository Manager]: https://github.com/puli/repository-manager
 [Puli CLI]: https://github.com/puli/cli
