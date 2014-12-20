@@ -2,6 +2,7 @@
     "name": "puli/puli",
     "type": "metapackage",
     "description": "Puli manages files, directories and other resources in a filesystem-like repository.",
+    "homepage": "http://puli.io",
     "license": "MIT",
     "authors": [
         {
