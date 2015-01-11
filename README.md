@@ -1,6 +1,8 @@
 Locating Files with Puli
 ========================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/puli/issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Latest release: [1.0.0-alpha1](https://packagist.org/packages/puli/puli#1.0.0-alpha1)
 
 PHP >= 5.3.9
