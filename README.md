@@ -1,86 +1,42 @@
-Locating Files with Puli
-========================
+Welcome to Puli's Issue Tracker!
+================================
 
-Latest release: [1.0.0-alpha1](https://packagist.org/packages/puli/puli#1.0.0-alpha1)
+The issue tracker of this repository collects the issues of all the [Puli]
+components and extensions. Head over to [Issues](/puli/issues/issues) to
+display and create issues.
 
-PHP >= 5.3.9
+The Puli Components
+-------------------
 
-Puli manages files and directories in a virtual repository. Whenever you need
-to access these resources in your project, you can find them by their Puli path:
+* [Repository]
+* [Discovery]
+* [Factory]
+* [Repository Manager]
+* [Command Line Interface]
+* [Composer Plugin]
 
-```php
-use Puli\Repository\ResourceRepository;
+The Puli Extensions
+-------------------
 
-$repo = new ResourceRepository();
-$repo->add('/config', '/path/to/resources/config');
-
-// /path/to/resources/config/routing.yml
-echo $repo->get('/config/routing.yml')->getContents();
-```
-
-This is useful when you have to hard-code paths, for example in configuration
-files:
-
-```yaml
-# config.yml
-import: /config/routing.yml
-```
-
-Read [Puli at a Glance] if you want to learn more about Puli.
-
-Core Components
----------------
-
-This package is a meta-package for Puli's core components:
-
-* [Puli Repository]
-* [Puli Repository Manager]
-* [Puli CLI]
-* [Puli Composer Plugin]
-
-Authors
--------
-
-* [Bernhard Schussek] a.k.a. [@webmozart]
-
-Installation
-------------
-
-Follow the [Getting Started] guide to install Puli in your project.
+* [Twig Extension]
+* [Symfony Bridge]
+* [Symfony Bundle]
+* [Assetic Extension]
 
 Documentation
 -------------
 
 Read the [Puli Documentation] if you want to learn more about Puli.
 
-Contribute
-----------
-
-Contributions to Puli are always welcome!
-
-* Report any bugs or issues you find on the [issue tracker].
-* You can grab the source code at Puli’s [GitHub organization].
-
-Support
--------
-
-If you are having problems, send a mail to bschussek@gmail.com or shout out to
-[@webmozart] on Twitter.
-
-License
--------
-
-All contents of this package are licensed under the [MIT license].
-
-[Bernhard Schussek]: http://webmozarts.com
-[Getting Started]: http://docs.puli.io/en/latest/getting-started.html
+[Puli]: http://puli.io
 [Puli Documentation]: http://docs.puli.io/en/latest/index.html
-[Puli at a Glance]: http://docs.puli.io/en/latest/at-a-glance.html
-[Puli Repository]: https://github.com/puli/repository
-[Puli Repository Manager]: https://github.com/puli/repository-manager
-[Puli CLI]: https://github.com/puli/cli
-[Puli Composer Plugin]: https://github.com/puli/composer-plugin
-[issue tracker]: https://github.com/puli/puli/issues
-[GitHub organization]: https://github.com/puli
-[@webmozart]: https://twitter.com/webmozart
-[MIT license]: LICENSE
+[Repository]: https://github.com/puli/repository
+[Discovery]: https://github.com/puli/discovery
+[Factory]: https://github.com/puli/factory
+[Repository Manager]: https://github.com/puli/repository-manager
+[Command Line Interface]: https://github.com/puli/cli
+[Composer Plugin]: https://github.com/puli/composer-plugin
+[Twig Extension]: https://github.com/puli/twig-extension
+[Symfony Bridge]: https://github.com/puli/symfony-bridge
+[Symfony Bundle]: https://github.com/puli/symfony-bundle
+[Assetic Extension]: https://github.com/puli/assetic-extension
