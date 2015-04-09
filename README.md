@@ -5,8 +5,8 @@ The issue tracker of this repository collects the issues of all the [Puli]
 components and extensions. Head over to [Issues] to
 display and create issues.
 
-The Puli Components
--------------------
+The Puli Core
+-------------
 
 * [Repository]
 * [Discovery]
