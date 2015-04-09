@@ -8,10 +8,10 @@ display and create issues.
 The Puli Core
 -------------
 
-* [Repository]
-* [Discovery]
-* [Factory]
-* [Manager]
+* [Repository API]
+* [Discovery API]
+* [Factory API]
+* [Manager API]
 * [Command Line Interface]
 * [Composer Plugin]
 * [Asset Plugin]
@@ -32,10 +32,10 @@ Read the [Puli Documentation] if you want to learn more about Puli.
 [Puli]: http://puli.io
 [Issues]: https://github.com/puli/issues/issues
 [Puli Documentation]: http://docs.puli.io/en/latest/index.html
-[Repository]: https://github.com/puli/repository
-[Discovery]: https://github.com/puli/discovery
-[Factory]: https://github.com/puli/factory
-[Manager]: https://github.com/puli/manager
+[Repository API]: https://github.com/puli/repository
+[Discovery API]: https://github.com/puli/discovery
+[Factory API]: https://github.com/puli/factory
+[Manager API]: https://github.com/puli/manager
 [Asset Plugin]: https://github.com/puli/asset-plugin
 [Command Line Interface]: https://github.com/puli/cli
 [Composer Plugin]: https://github.com/puli/composer-plugin
