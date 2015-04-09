@@ -14,7 +14,7 @@ The Puli Components
 * [Manager]
 * [Command Line Interface]
 * [Composer Plugin]
-* [Web Resource Plugin]
+* [Asset Plugin]
 
 The Puli Extensions
 -------------------
@@ -36,7 +36,7 @@ Read the [Puli Documentation] if you want to learn more about Puli.
 [Discovery]: https://github.com/puli/discovery
 [Factory]: https://github.com/puli/factory
 [Manager]: https://github.com/puli/manager
-[Web Resource Plugin]: https://github.com/puli/web-resource-plugin
+[Asset Plugin]: https://github.com/puli/asset-plugin
 [Command Line Interface]: https://github.com/puli/cli
 [Composer Plugin]: https://github.com/puli/composer-plugin
 [Twig Extension]: https://github.com/puli/twig-extension
