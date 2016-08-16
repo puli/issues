@@ -27,6 +27,14 @@ Documentation
 
 Read the [Puli Documentation] if you want to learn more about Puli.
 
+Join the Discussion
+-------------------
+
+Since August 2016 we decided to do weekly meetings discussing events in
+the previous week and the work to be done for the upcoming week. Feel 
+free to join us at **Tuesdays 16.00 CEST at [Google Hangout]**. Bring
+questions, feedback or just listen to the discussions. 
+
 [Puli]: http://puli.io
 [Issues]: https://github.com/puli/issues/issues
 [Puli Documentation]: http://docs.puli.io/en/latest/index.html
@@ -39,3 +47,4 @@ Read the [Puli Documentation] if you want to learn more about Puli.
 [Twig Extension]: https://github.com/puli/twig-extension
 [Symfony Bridge]: https://github.com/puli/symfony-bridge
 [Symfony Bundle]: https://github.com/puli/symfony-bundle
+[Google Hangout]: https://hangouts.google.com/call/ynlequecnfcwzp7yatqpdh4skie
